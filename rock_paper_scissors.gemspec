@@ -5,7 +5,7 @@ require_relative 'lib/rock_paper_scissors/version'
 Gem::Specification.new do |spec|
   spec.name          = 'rock_paper_scissors'
   spec.version       = RockPaperScissors::VERSION
-  spec.authors       = ['ismailarilik']
+  spec.authors       = ['İsmail Arılık']
   spec.email         = ['arilik.ismail@gmail.com']
 
   spec.summary       = 'A Rock, Paper, Scissors Game'
