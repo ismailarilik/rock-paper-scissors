@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-require "rock_paper_scissors"
+# frozen_string_literal: true
+
+require 'rock_paper_scissors'

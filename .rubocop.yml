@@ -1,0 +1,11 @@
+require:
+  - rubocop-performance
+  - rubocop-rake
+  - rubocop-rspec
+  - rubocop-rubycw
+
+AllCops:
+    NewCops: enable
+
+Layout/EndOfLine:
+  EnforcedStyle: lf

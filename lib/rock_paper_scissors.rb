@@ -1,4 +1,6 @@
-require "rock_paper_scissors/version"
+# frozen_string_literal: true
+
+require 'rock_paper_scissors/version'
 
 module RockPaperScissors
   class Error < StandardError; end
