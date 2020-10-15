@@ -3,3 +3,5 @@
 # frozen_string_literal: true
 
 require 'rock_paper_scissors'
+
+RockPaperScissors.start_game
